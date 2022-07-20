@@ -3,7 +3,7 @@
 
 - 🔭 My recent project [Police Crime Fighter](https://github.com/SkyIsNotGreen/police-crime-fighter)
 
-- 👨‍💻 View my Portfolio [https://glowingmanagement.github.io/personal-portfolio/](https://glowingmanagement.github.io/personal-portfolio/)
+- 👨‍💻 View my Portfolio [https://glowingmanagement.github.io/my-portfolio/](https://glowingmanagement.github.io/my-portfolio/)
 
 - 📫 How to reach me **josh@glowingmanagement.com**
 
