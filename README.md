@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Josh</h1>
 <h3 align="center">A full stack web developer from Warwickshire</h3>
 
-- 🔭 My recent project [Police Crime Fighter](https://github.com/SkyIsNotGreen/police-crime-fighter)
+- 🔭 My recent project [Palace Drum Clinic](https://app.palacedrumclinic.com)
 
 - 👨‍💻 View my Portfolio [https://glowingmanagement.github.io/my-portfolio/](https://glowingmanagement.github.io/my-portfolio/)
 
