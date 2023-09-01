@@ -3,7 +3,7 @@
 
 - 🔭 My recent project [Palace Drum Clinic](https://app.palacedrumclinic.com)
 
-- 👨‍💻 View my Portfolio [https://glowingmanagement.github.io/my-portfolio/](https://glowingmanagement.github.io/my-portfolio/)
+- 👨‍💻 View my Portfolio [https://joshholmes22.github.io/my-portfolio/](https://joshholmes22.github.io/my-portfolio/)
 
 - 📫 How to reach me **josh@glowingmanagement.com**
 
